@@ -1,0 +1,6 @@
+{
+  "name": "randomblockgenerator",
+  "main": "RandomBlockGenerator.js",
+  "version": "1.0",
+  "displayName": "RandomBlockGenerator"
+}
