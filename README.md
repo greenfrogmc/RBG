@@ -8,4 +8,4 @@ Generates a lot of random blocks in your world!
 
 This project is free to use. You can build your project on top of this
 
-Also I recommend you to look at the src/block library in Greenfrog's repo!
+Also I recommend you to look at the src/block library in GreenFrog's repo!
