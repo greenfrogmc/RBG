@@ -1,4 +1,4 @@
-<img src="https://greenfrog.f1470348511.workers.dev/favicon.ico">
+<img src="https://cdn.discordapp.com/icons/1027320700022825030/18452bb7b7a051ca651b2c9b2c817846.webp?size=128">
 
 # RandomBlockGenerator
 
